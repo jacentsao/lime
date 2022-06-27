@@ -20,9 +20,9 @@
 
 |名称|文件类型|操作
 |-|-|-|
-|App 原型|Figma 社区|<a href="https://www.figma.com/community/file/1122536773250851621" target="_blank">点击查看详情</a>|
-|数据库物理模型|pdm、jpg、sql|<a href="https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%89%A9%E7%90%86%E6%A8%A1%E5%9E%8B%E5%9B%BE" target="_blank">点击查看详情</a>|
-|产品结构图>>>竞品结构图|xmind|<a href="https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%AB%9E%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE" target="_blank">点击查看详情</a>|
+|App 原型|Figma 社区|[点击查看详情](https://www.figma.com/community/file/1122536773250851621)|
+|数据库物理模型|pdm、jpg、sql|[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%89%A9%E7%90%86%E6%A8%A1%E5%9E%8B%E5%9B%BE)|
+|产品结构图>>>竞品结构图|xmind|[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%AB%9E%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE)|
 
 ## 项目结构
 
