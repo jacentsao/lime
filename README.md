@@ -16,6 +16,12 @@
 
 [Lime **(青柠记账)**](https://github.com/feiyu-rs/lime) 是一款开源的记账应用，采用目前主流的跨平台技术 Flutter 进行开发，后端采用完全支持 TypeScript 技术的服务器端开发框架 Nestjs，数据库使用 PostgreSQL，前后端接口采用 GraphQL技术...
 
+### 项目资料
+
+|名称|文件类型|操作
+|-|-|-|
+|数据库物理模型|pdm、jpg、sql|[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%89%A9%E7%90%86%E6%A8%A1%E5%9E%8B%E5%9B%BE)|
+
 ## 项目结构
 
 ~~~
