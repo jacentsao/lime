@@ -2,7 +2,7 @@
 	<img alt="logo" height="100px" width="100px" src="https://raw.githubusercontent.com/feiyu-rs/whale-docs/main/lime/readme_imgs/lime_logo.png">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Lime [青柠记账]</h1>
-<h4 align="center">青柠记账是一个开源的记账项目，致力于做一款清爽、干净、简洁、没有广告的App，同时也采用目前主流的技术进行开发，例如：Flutter、Nestjs、PostgreSQL、GraphQL等</h4>
+<h4 align="center">青柠记账是一个开源的记账项目，致力于做一款清爽、干净、简洁、没有广告的App，同时也采用全新的技术进行开发，例如：Flutter、Nestjs、PostgreSQL、GraphQL等</h4>
 <p align="center">
 	<a><img src="https://img.shields.io/github/stars/feiyu-rs/lime?style=social"></a>
     <a><img src="https://img.shields.io/github/forks/feiyu-rs/lime?style=social"></a>
@@ -14,15 +14,23 @@
 
 ## 简介
 
-[Lime **(青柠记账)**](https://github.com/feiyu-rs/lime) 是一款开源的记账应用，采用目前主流的跨平台技术 Flutter 进行开发，后端采用完全支持 TypeScript 技术的服务器端开发框架 Nestjs，数据库使用 PostgreSQL，前后端接口采用 GraphQL技术...
+[Lime **(青柠记账)**](https://github.com/feiyu-rs/lime) 是一款开源的记账应用，采用全新的跨平台技术 Flutter 进行开发，后端采用完全支持 TypeScript 技术的服务器端开发框架 Nestjs，数据库使用 PostgreSQL，前后端接口采用 GraphQL 技术。
 
-### 项目资料
+## 项目资料
 
-|名称|文件类型|操作
-|-|-|-|
+| 名称 | 文件类型 | 操作  |
+| ---|------|-----|
 |App 原型|Figma 社区|[点击查看详情](https://www.figma.com/community/file/1122536773250851621)|
 |数据库物理模型|pdm、jpg、sql|[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%89%A9%E7%90%86%E6%A8%A1%E5%9E%8B%E5%9B%BE)|
-|产品结构图>>>竞品结构图|xmind|[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%AB%9E%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE)|
+| 产品结构图 >>> 竞品结构图 | xmind |[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%AB%9E%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE)|
+
+## 关联项目
+
+| 项目名称 | 中文名      | 操作  |
+|------------|----------|-----|
+| Lime Backend | 青柠记账后端 |[点击查看详情](https://github.com/feiyu-rs/lime-backend)|
+| whale-docs | Lime 文档 |[点击查看详情](https://github.com/feiyu-rs/whale-docs)|
+
 
 ## 项目结构
 
@@ -41,11 +49,11 @@ lime
 
 ## 关于开源协议
 
-改项目为开源产品，遵循 [Apache License 2.0](https://github.com/feiyu-rs/lime/blob/main/LICENSE) 开源协议。 允许商业使用，但务必保留作者、Copyright信息。
+该项目为开源项目，请遵循 [Apache License 2.0](https://github.com/feiyu-rs/lime/blob/main/LICENSE) 开源协议使用，并务必保留作者、Copyright 信息。
 
 ## 其他说明
 
-- 欢迎提交 [issues](https://github.com/feiyu-rs/lime/issues) ，提交请填写清楚遇到问题的原因、环境、复显步骤。
+- 欢迎提交 [issues](https://github.com/feiyu-rs/lime/issues) ，并填写清楚遇到的问题及原因、环境、复显步骤等。
 
 ## 交流群
 
