@@ -87,17 +87,168 @@ class _RecordState extends State<Record> with TickerProviderStateMixin {
       body: TabBarView(
         controller: _tabController,
         children: [
-          GridView.count(
-            // horizontal, this produces 2 rows.
-            crossAxisCount: 4,
-            children: List.generate(8, (index) {
-              return Center(
-                child: Text(
-                  'Item $index',
-                  style: Theme.of(context).textTheme.headline5,
+          Container(
+            margin: EdgeInsets.only(
+              left: 35,
+              right: 35,
+            ),
+            child: Column(
+              children: [
+                Container(
+                  margin: EdgeInsets.only(
+                    top: 20,
+                    bottom: 40,
+                  ),
+                  child: Column(
+                    children: [
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          Container(
+                            width: 44,
+                            height: 66,
+                            child: Column(
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                              children: [
+                                CircleAvatar(
+                                  backgroundColor: HexColor('#F3F3F3'),
+                                  child: Icon(Icons.home,
+                                      color: HexColor('#54C395')),
+                                ),
+                                Text('早餐')
+                              ],
+                            ),
+                          ),
+                          Container(
+                            width: 44,
+                            height: 66,
+                            child: Column(
+                              children: [
+                                CircleAvatar(
+                                  backgroundColor: HexColor('#F3F3F3'),
+                                  child: Icon(Icons.home,
+                                      color: HexColor('#54C395')),
+                                ),
+                                Text('早餐')
+                              ],
+                            ),
+                          ),
+                          Container(
+                            width: 44,
+                            height: 66,
+                            child: Column(
+                              children: [
+                                CircleAvatar(
+                                  backgroundColor: HexColor('#F3F3F3'),
+                                  child: Icon(Icons.home,
+                                      color: HexColor('#54C395')),
+                                ),
+                                Text('早餐')
+                              ],
+                            ),
+                          ),
+                          Container(
+                            width: 44,
+                            height: 66,
+                            child: Column(
+                              children: [
+                                CircleAvatar(
+                                  backgroundColor: HexColor('#F3F3F3'),
+                                  child: Icon(Icons.home,
+                                      color: HexColor('#54C395')),
+                                ),
+                                Text('早餐')
+                              ],
+                            ),
+                          ),
+                        ],
+                      ),
+                      SizedBox(height: 20),
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          Container(
+                            width: 44,
+                            height: 66,
+                            child: Column(
+                              children: [
+                                CircleAvatar(
+                                  backgroundColor: HexColor('#F3F3F3'),
+                                  child: Icon(Icons.home,
+                                      color: HexColor('#54C395')),
+                                ),
+                                Text('早餐')
+                              ],
+                            ),
+                          ),
+                          Container(
+                            width: 44,
+                            height: 66,
+                            child: Column(
+                              children: [
+                                CircleAvatar(
+                                  backgroundColor: HexColor('#F3F3F3'),
+                                  child: Icon(Icons.home,
+                                      color: HexColor('#54C395')),
+                                ),
+                                Text('早餐')
+                              ],
+                            ),
+                          ),
+                          Container(
+                            width: 44,
+                            height: 66,
+                            child: Column(
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                              children: [
+                                CircleAvatar(
+                                  backgroundColor: HexColor('#F3F3F3'),
+                                  child: Icon(Icons.home,
+                                      color: HexColor('#54C395')),
+                                ),
+                                Text('早餐')
+                              ],
+                            ),
+                          ),
+                          Container(
+                            width: 44,
+                            height: 66,
+                            child: Column(
+                              children: [
+                                CircleAvatar(
+                                  backgroundColor: HexColor('#F3F3F3'),
+                                  child: Icon(Icons.home,
+                                      color: HexColor('#54C395')),
+                                ),
+                                Text('早餐')
+                              ],
+                            ),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
                 ),
-              );
-            }),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text('账户'),
+                    Text('现金'),
+                  ],
+                ),
+                Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Row(
+                      children: [
+                        Text('上传图片'),
+                      ],
+                    ),
+                    Text('图片'),
+                  ],
+                ),
+              ],
+            ),
           ),
           Center(
             child: Text('2'),
