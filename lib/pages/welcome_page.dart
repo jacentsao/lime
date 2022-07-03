@@ -5,7 +5,6 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:lime/common/colors.dart';
 import 'package:lime/models/welcome_model.dart';
 import 'package:lime/pages/home_page.dart';
-import 'package:lime/pages/register.dart';
 import 'package:lime/widgets/app_large_text.dart';
 import 'package:lime/widgets/app_text.dart';
 import 'package:lime/widgets/welcome_button.dart';
