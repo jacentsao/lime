@@ -64,10 +64,10 @@ lime
 ## 部分界面展示
 
 <p>
-    <img alt="splash_background" style="border:1px dashed #666" height="240px" width="108px" src="./assets/images/splash_background.png">
-    <img alt="welcome_1" style="border:1px dashed #666" height="240px" width="108px" src="./public/welcome_1.jpg">
-    <img alt="welcome_2" style="border:1px dashed #666" height="240px" width="108px" src="./public/welcome_2.jpg">
-    <img alt="welcome_3" style="border:1px dashed #666; !important" height="240px" width="108px" src="./public/welcome_3.jpg">
+    <kbd><img alt="splash_background" height="240px" width="108px" src="./assets/images/splash_background.png"></kbd>
+    <kbd><img alt="welcome_1" height="240px" width="108px" src="./public/welcome_1.jpg"></kbd>
+    <kbd><img alt="welcome_2" height="240px" width="108px" src="./public/welcome_2.jpg"></kbd>
+    <kbd><img alt="welcome_3" height="240px" width="108px" src="./public/welcome_3.jpg"></kbd>
 </p>
 
 ## 关于开源协议
