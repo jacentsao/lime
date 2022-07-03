@@ -61,13 +61,13 @@ lime
 │       └── 
 ~~~
 
-## 部分界面
+## 部分界面展示
 
 <p>
-    <img alt="welcome_1" height="240px" width="108px" src="./assets/images/splash_background.png">
-    <img alt="welcome_1" height="240px" width="108px" src="./public/welcome_1.jpg">
-    <img alt="welcome_2" height="240px" width="108px" src="./public/welcome_2.jpg">
-    <img alt="welcome_3" height="240px" width="108px" src="./public/welcome_3.jpg">
+    <img alt="welcome_1" border="1px solid #666" height="240px" width="108px" src="./assets/images/splash_background.png">
+    <img alt="welcome_1" border="1px solid #666" height="240px" width="108px" src="./public/welcome_1.jpg">
+    <img alt="welcome_2" border="1px solid #666" height="240px" width="108px" src="./public/welcome_2.jpg">
+    <img alt="welcome_3" border="1px solid #666" height="240px" width="108px" src="./public/welcome_3.jpg">
 </p>
 
 ## 关于开源协议
