@@ -28,7 +28,7 @@
 
 ## 在线体验
 
-https://figma.fun/sOOY6T
+**App 界面演示地址：** https://figma.fun/6rHvfK
 
 ## 资料
 
@@ -37,15 +37,6 @@ https://figma.fun/sOOY6T
 | Lime App 原型|Figma 社区|[点击查看详情](https://www.figma.com/community/file/1122536773250851621)|
 |数据库物理模型图|pdm、jpg、sql|[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%89%A9%E7%90%86%E6%A8%A1%E5%9E%8B%E5%9B%BE)|
 | 产品结构图 >>> 竞品结构图 | xmind |[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%AB%9E%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE)|
-
-## 部分界面
-
-### 1.引导页
-<p>
-    <img alt="welcome_1" height="482px" width="217px" src="./public/welcome_1.jpg">
-    <img alt="welcome_2" height="482px" width="217px" src="./public/welcome_2.jpg">
-    <img alt="welcome_3" height="482px" width="217px" src="./public/welcome_3.jpg">
-</p>
 
 ## 后台&文档
 
@@ -69,6 +60,15 @@ lime
 ├── lib                                                     // Lime 主项目文件
 │       └── 
 ~~~
+
+## 部分界面
+
+<p>
+    <img alt="welcome_1" height="240px" width="108px" src="./assets/images/splash_background.png">
+    <img alt="welcome_1" height="240px" width="108px" src="./public/welcome_1.jpg">
+    <img alt="welcome_2" height="240px" width="108px" src="./public/welcome_2.jpg">
+    <img alt="welcome_3" height="240px" width="108px" src="./public/welcome_3.jpg">
+</p>
 
 ## 关于开源协议
 
