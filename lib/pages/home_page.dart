@@ -7,15 +7,15 @@ import 'package:lime/pages/individual.dart';
 import 'package:lime/pages/record.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
-class Tabs extends StatefulWidget {
-  Tabs({Key? key}) : super(key: key);
+class Home extends StatefulWidget {
+  Home({Key? key}) : super(key: key);
 
   @override
-  State<Tabs> createState() => _TabsState();
+  State<Home> createState() => _HomeState();
 }
 
-class _TabsState extends State<Tabs> {
-  int _currentIndex = 1;
+class _HomeState extends State<Home> {
+  int _currentIndex = 0;
 
   List navigationBarItem = [
     Dtail(),
@@ -27,7 +27,6 @@ class _TabsState extends State<Tabs> {
 
   @override
   Widget build(BuildContext context) {
-
     // 屏幕尺寸及字体大小适配
     ScreenUtil.init(
       context,

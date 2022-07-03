@@ -1,4 +1,5 @@
 
+const String homeRouteName = '/home';
 const String welcomeRouteName = '/welcome';
 
 

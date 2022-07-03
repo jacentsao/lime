@@ -429,7 +429,7 @@ class _NestedTabbarState extends State<NestedTabbar>
                 fontWeight: FontWeight.bold,
                 color: const Color(0xffffffff)),
             badgeWidget: _Badge(
-              'assets/ophthalmology-svgrepo-com.svg',
+              'assets/svgs/ophthalmology-svgrepo-com.svg',
               size: widgetSize,
               borderColor: const Color(0xff0293ee),
             ),
@@ -446,7 +446,7 @@ class _NestedTabbarState extends State<NestedTabbar>
                 fontWeight: FontWeight.bold,
                 color: const Color(0xffffffff)),
             badgeWidget: _Badge(
-              'assets/librarian-svgrepo-com.svg',
+              'assets/svgs/librarian-svgrepo-com.svg',
               size: widgetSize,
               borderColor: const Color(0xfff8b250),
             ),
@@ -463,7 +463,7 @@ class _NestedTabbarState extends State<NestedTabbar>
                 fontWeight: FontWeight.bold,
                 color: const Color(0xffffffff)),
             badgeWidget: _Badge(
-              'assets/fitness-svgrepo-com.svg',
+              'assets/svgs/fitness-svgrepo-com.svg',
               size: widgetSize,
               borderColor: const Color(0xff845bef),
             ),
@@ -480,7 +480,7 @@ class _NestedTabbarState extends State<NestedTabbar>
                 fontWeight: FontWeight.bold,
                 color: const Color(0xffffffff)),
             badgeWidget: _Badge(
-              'assets/worker-svgrepo-com.svg',
+              'assets/svgs/worker-svgrepo-com.svg',
               size: widgetSize,
               borderColor: const Color(0xff13d38e),
             ),
