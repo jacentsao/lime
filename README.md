@@ -30,21 +30,14 @@
 
 **App 界面演示地址：** https://figma.fun/6rHvfK
 
-## 资料
+## 部分界面展示
 
-| 名称 | 文件类型 | 操作  |
-| ---|------|-----|
-| Lime App 原型|Figma 社区|[点击查看详情](https://www.figma.com/community/file/1122536773250851621)|
-|数据库物理模型图|pdm、jpg、sql|[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%89%A9%E7%90%86%E6%A8%A1%E5%9E%8B%E5%9B%BE)|
-| 产品结构图 >>> 竞品结构图 | xmind |[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%AB%9E%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE)|
-
-## 后台&文档
-
-| 名称 | 简介      | 操作  |
-|------------|----------|-----|
-| lime-backend | 青柠记账后端开源项目 |[点击查看详情](https://github.com/feiyu-rs/lime-backend)|
-| whale-docs | Lime 产品相关的文档 |[点击查看详情](https://github.com/feiyu-rs/whale-docs)|
-
+<p>
+    <kbd><img alt="splash_background" height="240px" width="108px" src="./assets/images/splash_background.png"></kbd>
+    <kbd><img alt="welcome_1" height="240px" width="108px" src="./public/welcome_1.jpg"></kbd>
+    <kbd><img alt="welcome_2" height="240px" width="108px" src="./public/welcome_2.jpg"></kbd>
+    <kbd><img alt="welcome_3" height="240px" width="108px" src="./public/welcome_3.jpg"></kbd>
+</p>
 
 ## 项目结构
 
@@ -61,14 +54,21 @@ lime
 │       └── 
 ~~~
 
-## 部分界面展示
+## 资料
 
-<p>
-    <kbd><img alt="splash_background" height="240px" width="108px" src="./assets/images/splash_background.png"></kbd>
-    <kbd><img alt="welcome_1" height="240px" width="108px" src="./public/welcome_1.jpg"></kbd>
-    <kbd><img alt="welcome_2" height="240px" width="108px" src="./public/welcome_2.jpg"></kbd>
-    <kbd><img alt="welcome_3" height="240px" width="108px" src="./public/welcome_3.jpg"></kbd>
-</p>
+| 名称 | 文件类型 | 操作  |
+| ---|------|-----|
+| Lime App 原型|Figma 社区|[点击查看详情](https://www.figma.com/community/file/1122536773250851621)|
+|数据库物理模型图|pdm、jpg、sql|[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%89%A9%E7%90%86%E6%A8%A1%E5%9E%8B%E5%9B%BE)|
+| 产品结构图 >>> 竞品结构图 | xmind |[点击查看详情](https://github.com/feiyu-rs/whale-docs/tree/main/lime/%E4%BA%A7%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE/%E7%AB%9E%E5%93%81%E7%BB%93%E6%9E%84%E5%9B%BE)|
+
+## 后台&文档
+
+| 名称 | 简介      | 操作  |
+|------------|----------|-----|
+| lime-backend | 青柠记账后端开源项目 |[点击查看详情](https://github.com/feiyu-rs/lime-backend)|
+| whale-docs | Lime 产品相关的文档 |[点击查看详情](https://github.com/feiyu-rs/whale-docs)|
+
 
 ## 关于开源协议
 
