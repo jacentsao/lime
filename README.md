@@ -28,7 +28,7 @@
 
 ## 在线体验
 
-**App 界面演示地址：** https://figma.fun/6rHvfK
+**App 原型界面演示地址：** https://figma.fun/6rHvfK
 
 ## 部分界面展示
 

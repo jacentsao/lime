@@ -82,7 +82,7 @@ class _WelcomePageState extends State<WelcomePage> {
             height: double.maxFinite,
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage(_welcomeList[index].image),
+                image: AssetImage(_welcomeList.elementAt(index).image),
                 fit: BoxFit.cover,
               ),
             ),
@@ -94,13 +94,13 @@ class _WelcomePageState extends State<WelcomePage> {
                   Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      AppLargeText(_welcomeList[index].title, size: 30.sp),
-                      AppText(_welcomeList[index].subTitle, size: 30.sp),
+                      AppLargeText(_welcomeList.elementAt(index).title, size: 30.sp),
+                      AppText(_welcomeList.elementAt(index).subTitle, size: 30.sp),
                       SizedBox(height: 20.h),
                       SizedBox(
                         width: 250.w,
                         child: AppText(
-                          _welcomeList[index].content,
+                          _welcomeList.elementAt(index).content,
                           color: AppColors.textColor2,
                           size: 14.sp,
                         ),
@@ -109,7 +109,7 @@ class _WelcomePageState extends State<WelcomePage> {
                       WelcomeButton(
                         width: 120.w,
                         height: 50.h,
-                        icon: _welcomeList[index].icon,
+                        icon: _welcomeList.elementAt(index).icon,
                         onTab: () {
                           if (index != 2) {
                             // 第一页和第二页点击跳转到下一页
