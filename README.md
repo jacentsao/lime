@@ -33,11 +33,11 @@
 ## 部分界面展示
 
 <p>
-    <kbd><img width="270px" height="600px" src="./assets/images/splash_background.png"></kbd>
-    <kbd><img width="270px" height="600px" src="./public/welcome_1.jpg"></kbd>
-    <kbd><img width="270px" height="600px" src="./public/welcome_2.jpg"></kbd>
-    <kbd><img width="270px" height="600px" src="./public/welcome_3.jpg"></kbd>
-    <kbd><img width="270px" height="600px" src="./public/5.png"></kbd>
+    <kbd><img width="216px" height="480px" src="./assets/images/splash_background.png"></kbd>
+    <kbd><img width="216px" height="480px" src="./public/welcome_1.jpg"></kbd>
+    <kbd><img width="216px" height="480px" src="./public/welcome_2.jpg"></kbd>
+    <kbd><img width="216px" height="480px" src="./public/welcome_3.jpg"></kbd>
+    <kbd><img width="216px" height="480px" src="./public/5.png"></kbd>
 </p>
 
 ## 项目结构
