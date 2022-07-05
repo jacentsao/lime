@@ -2,6 +2,10 @@
 const String homeRouteName = '/home';
 const String welcomeRouteName = '/welcome';
 
+// user
+const String registerRouteName = '/register';
+
+
 
 
 

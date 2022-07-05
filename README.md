@@ -33,10 +33,11 @@
 ## 部分界面展示
 
 <p>
-    <kbd><img alt="splash_background" height="240px" width="108px" src="./assets/images/splash_background.png"></kbd>
-    <kbd><img alt="welcome_1" height="240px" width="108px" src="./public/welcome_1.jpg"></kbd>
-    <kbd><img alt="welcome_2" height="240px" width="108px" src="./public/welcome_2.jpg"></kbd>
-    <kbd><img alt="welcome_3" height="240px" width="108px" src="./public/welcome_3.jpg"></kbd>
+    <kbd><img alt="splash_background" height="720px" width="324px" src="./assets/images/splash_background.png"></kbd>
+    <kbd><img alt="welcome_1" height="720px" width="324px" src="./public/welcome_1.jpg"></kbd>
+    <kbd><img alt="welcome_2" height="720px" width="324px" src="./public/welcome_2.jpg"></kbd>
+    <kbd><img alt="welcome_3" height="720px" width="324px" src="./public/welcome_3.jpg"></kbd>
+    <kbd><img height="720px" width="324px" src="./public/5.png"></kbd>
 </p>
 
 ## 项目结构
@@ -78,8 +79,11 @@ lime
 
 - 欢迎提交 [issues](https://github.com/feiyu-rs/lime/issues) ，并填写清楚遇到的问题及原因、环境、复显步骤等。
 
-## 交流群
+## 联系方式
 
 ### QQ群：
 
 <a href="https://qm.qq.com/cgi-bin/qm/qr?k=2Qcv_tL-4hJQJpy8y41cpkx5tM-ENWaO&jump_from=webapi"><img src="https://img.shields.io/badge/%E5%8F%AF%E5%8A%A0-742462745-brightgreen"></a>
+
+### 邮箱：
+feiyurs0@gmail.com

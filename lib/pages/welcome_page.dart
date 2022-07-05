@@ -60,17 +60,6 @@ class _WelcomePageState extends State<WelcomePage> {
 
   @override
   Widget build(BuildContext context) {
-    // 屏幕尺寸及字体大小适配
-    ScreenUtil.init(
-      context,
-      // iphone 13 尺寸
-      designSize: const Size(390, 844),
-      // 是否根据宽度/高度中的最小值适配文字
-      minTextAdapt: true,
-      // 支持分屏尺寸
-      splitScreenMode: true,
-    );
-
     return Scaffold(
       body: PageView.builder(
         scrollDirection: Axis.vertical,

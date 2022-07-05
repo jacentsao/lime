@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:lime/config/route_names.dart';
 import 'package:lime/route/routes.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -24,15 +25,34 @@ class Main extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      // 初始化路由名称
-      initialRoute: initScreen == 0 || initScreen == null
-          ? welcomeRouteName
-          : homeRouteName,
-      // 路由列表
-      onGenerateRoute: onGenerateRoute,
-      // 关闭 debug banner
-      debugShowCheckedModeBanner: false,
+    return ScreenUtilInit(
+      // ScreenUtilInit > MaterialApp 初始化并设置适配尺寸及字体大小
+      designSize: const Size(390, 844),
+      minTextAdapt: true,
+      splitScreenMode: true,
+      builder: (context, child) => MaterialApp(
+        // 初始化路由名称
+        // initialRoute: initScreen == 0 || initScreen == null
+        //     ? welcomeRouteName
+        //     : registerRouteName,
+        initialRoute: registerRouteName,
+        // 路由列表
+        onGenerateRoute: onGenerateRoute,
+        // 关闭 debug banner
+        debugShowCheckedModeBanner: false,
+        theme: ThemeData(
+          appBarTheme: const AppBarTheme(
+              backgroundColor: Colors.white,
+              systemOverlayStyle: SystemUiOverlayStyle(
+                statusBarColor: Colors.white,
+                statusBarIconBrightness: Brightness.dark,
+                statusBarBrightness: Brightness.light,
+              ),
+              centerTitle: true,
+              elevation: 1,
+              iconTheme: IconThemeData(color: Colors.black)),
+        ),
+      ),
     );
   }
 }

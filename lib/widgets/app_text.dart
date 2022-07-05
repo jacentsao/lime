@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 
 /// Normal 字体
 class AppText extends StatelessWidget {
-  final double size;
   final String text;
+  final double size;
   final Color color;
 
   const AppText(
