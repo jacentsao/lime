@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo" height="100px" width="100px" src="https://raw.githubusercontent.com/feiyu-rs/whale-docs/main/lime/readme_imgs/lime_logo.png">
+	<img alt="logo" height="100px" width="100px" src="https://raw.githubusercontent.com/feiyu-rs/whale-docs/main/public/images/logo/lime_logo.png">
 </p>
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Lime 青柠记账</h1>
 <h4 align="center">青柠记账是一个基于 Flutter 3.0 的开源项目，致力于做一款清爽、干净、简洁、无广告的应用程序。</h4>
