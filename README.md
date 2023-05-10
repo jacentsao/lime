@@ -16,7 +16,7 @@
 >
 > 后端 (基于NestJS)：https://github.com/alexbei/lemon-nestjs-backend
 >
-> 项目资料仓库：https://github.com/alexbei/lemon-doc
+> 项目资料仓库：https://github.com/alexbei/lemon-docs
 >
 > 有兴趣的同学可以加下面的群，进行交流
 
