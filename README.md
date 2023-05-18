@@ -12,7 +12,7 @@
 
 > 目前作者还在写后端和小程序端，flutter项目暂时未启动
 >
-> 小程序端 (基于Taro)：https://github.com/alexbei/lemon-miniprogram
+> 微信小程序 (原生，专注高性能)：https://github.com/alexbei/lemon-wechat
 >
 > 后端 (基于NestJS)：https://github.com/alexbei/lemon-nestjs-backend
 >
