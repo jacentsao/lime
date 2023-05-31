@@ -1,16 +1,24 @@
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Lemon (柠檬记账)</h1>
-<h4 align="center">Lemon 是一个基于 Flutter 的开源项目，致力于做一款清爽、干净、简洁、无广告的应用程序。</h4>
 <p align="center">
-	<a><img src="https://img.shields.io/github/stars/BeiChuanAlex/lime?style=social"></a>
-    <a><img src="https://img.shields.io/github/forks/BeiChuanAlex/lime?style=social"></a>
-	<a><img src="https://img.shields.io/github/issues/BeiChuanAlex/lime"></a>
-	<a><img src="https://img.shields.io/github/repo-size/BeiChuanAlex/lime"></a>
-	<a><img src="https://img.shields.io/badge/Lime-v1.0.0-brightgreen"></a>
-	<a><img src="https://img.shields.io/github/license/BeiChuanAlex/lime"></a>
+    <img src="https://raw.githubusercontent.com/alexbei/lemon-docs/main/images/logo/lemon-flutter-logo-round.png" alt=logo" width="200" height="200" />
 </p>
 
+<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Lemon Flutter App</h1>
+<h3 align="center">柠檬记账 Flutter App，让您的记账更简单、更高效、更有趣！</h3>
+<br>
+<h5 align="center">Lemon Flutter App 是一个使用前沿技术栈打造的开源个人记账项目，让用户可以的轻松记录生活和社交中的收支情况。</h5>
+<br>
+<p align="center">    
+    <a><img src="https://img.shields.io/github/stars/alexbei/lemon_flutter?style=social"></a>
+    <a><img src="https://img.shields.io/github/forks/alexbei/lemon_flutter?style=social"></a>
+    <a><img src="https://img.shields.io/github/issues/alexbei/lemon_flutter"></a>
+    <a><img src="https://img.shields.io/github/repo-size/alexbei/lemon_flutter"></a>
+    <a><img src="https://img.shields.io/github/license/alexbei/lemon_flutter"></a>
+</p>
+<br>
 
-> 目前作者还在写后端和小程序端，flutter项目暂时未启动
+
+
+> 目前作者还在写后端和小程序端，flutter App 项目暂时未启动
 >
 > 微信小程序 (原生，专注高性能)：https://github.com/alexbei/lemon-wechat
 >
