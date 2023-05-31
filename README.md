@@ -4,9 +4,7 @@
 
 <h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">Lemon Flutter App</h1>
 <h3 align="center">柠檬记账 Flutter App，让您的记账更简单、更高效、更有趣！</h3>
-<br>
 <h5 align="center">Lemon Flutter App 是一个使用前沿技术栈打造的开源个人记账项目，让用户可以的轻松记录生活和社交中的收支情况。</h5>
-<br>
 <p align="center">    
     <a><img src="https://img.shields.io/github/stars/alexbei/lemon_flutter?style=social"></a>
     <a><img src="https://img.shields.io/github/forks/alexbei/lemon_flutter?style=social"></a>
@@ -14,7 +12,6 @@
     <a><img src="https://img.shields.io/github/repo-size/alexbei/lemon_flutter"></a>
     <a><img src="https://img.shields.io/github/license/alexbei/lemon_flutter"></a>
 </p>
-<br>
 
 
 
